@@ -7,6 +7,6 @@ This interactive dashboard is created as a visualization tool for production man
 
 ![Product Status Dashboard](https://user-images.githubusercontent.com/67841104/160864271-8712bc00-b9c5-47bc-b333-b7578f5dc34d.PNG)
 
-## [Project 2: House Price Prediction Using Advanced Regression (Kaggle Competition)](https://github.com/sajidsarkar/Kaggle---House-Price---Advanced-Regression-Techniques/tree/master)
-
+## [House Price Prediction Using Regression Technique - Random Forest Classifier](https://github.com/sajidsarkar/Kaggle-House_Price-Advanced_Regression)
+I participated in this [Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) to acquire hands-on experience in data exploration, feature engineering, and regression techniques. <ins>**Root Mean Square Error was reduced down to 0.18063.**</ins>
 
