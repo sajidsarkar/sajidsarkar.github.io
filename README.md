@@ -9,7 +9,7 @@ I participated in this [Kaggle Competition](https://www.kaggle.com/c/house-price
 ### Project 2: Manufacturing Quality Analytics Dashboard
 In this project an interactive dashboard was built and deployed online using Heroku. The application is designed to pull data from manufacturing databased using API and python 'requests' libarary. End users can analyze defect symptoms interactively by modifying the time window and filtering by product lines. There is also a timeline visualization helpful for monitoring status of products as they pass through end of manufacturing line testing stations.<br /><br />
 **Further Details & Source Code:** [https://github.com/sajidsarkar/Manufacturing-Dash](https://github.com/sajidsarkar/Manufacturing-Dash)<br />
-**Application:** [sajidsarkar-test.herokuapp.com](sajidsarkar-test.herokuapp.com)<br />
+**Application:** [sajidsarkar-test.herokuapp.com](https://sajidsarkar-test.herokuapp.com)<br />
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/67841104/162871034-ca8625bf-291e-43ed-bfa5-50bbf540b23b.PNG" width="350" height="350" />
